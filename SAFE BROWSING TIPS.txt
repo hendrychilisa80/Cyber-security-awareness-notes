@@ -1,0 +1,8 @@
+﻿SAFE BROWSING TIPS
+- Always check for the padlock symbol (HTTPS) in website URLs.
+- Avoid clicking pop-up ads or suspicious links.
+- Do not share personal details on unsecured platforms.
+- Keep your browser and antivirus updated.
+- Be cautious when using public Wi-Fi networks.
+- Never download files from untrusted sources.
+- Regularly clear cookies and browsing history.
